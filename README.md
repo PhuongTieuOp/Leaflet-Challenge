@@ -5,7 +5,7 @@ Deployment website: https://phuongtieuop.github.io/Leaflet-Challenge/
 
 ### Introduction:
 
-This website uses earthquake data last one week datat downloads from https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson, tectonic plates data downloads from https://github.com/fraxen/tectonicplates
+This website uses last one week earthquake data downloaded from https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson, tectonic plates data downloaded from https://github.com/fraxen/tectonicplates.
 
 Base map has 5 layers: Light, Outdoors, Terrains, National Geographics, Satillite.  Click on each option to see different layer images. 
 
